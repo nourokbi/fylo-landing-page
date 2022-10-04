@@ -113,6 +113,9 @@ nav .navbar ul li a {
   text-decoration: none;
   color: black;
 }
+nav .navbar ul li a:hover {
+    color: hsl(224, 100%, 70%);
+}
 
 @media (max-width: 550px) {
   nav .navbar {
